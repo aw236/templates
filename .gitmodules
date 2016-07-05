@@ -1,0 +1,3 @@
+[submodule "myrefs"]
+	path = myrefs
+	url = git@github.com:aw236/myrefs.git
